@@ -5,7 +5,7 @@
 .ent _start
 
 _start:
-
+ 
 
 addi $s0, $zero, 0			#counter for first loop
 addi $s1, $zero, 0			#counter for outer loop
